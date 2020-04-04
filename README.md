@@ -11,6 +11,6 @@
  
  200K steps on celebA (64x64) (gamma = 0.5, lr = 0.00008, 0.00004)
  
- <img src="./assets/199999BEGAN-celeba_64x64_Last.png" width="80%">
+ <img src="./assets/199999BEGAN-celeba_64x64_Last.png" >
 
 
