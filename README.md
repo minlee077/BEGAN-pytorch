@@ -7,10 +7,17 @@
  <img src="./assets/model.png" width="80%">
  
  
- ## Results
- 
- 200K steps on celebA (64x64) (gamma = 0.5, lr = 0.00008, 0.00004)
+## Results
+
+### Generator output (64x64) with gamma = 0.5, after 200K steps
  
  <img src="./assets/199999BEGAN-celeba_64x64_Last.png" >
 
+### Interpolation of Generator output (64x64) with gamma = 0.5 after 200K
 
+ <img src="./assets/interpolation_G.png" >
+ 
+ 
+ ### Interpolation of Discriminator output of real images
+
+ <img src="./assets/interpolation_D_with_real.png" >
